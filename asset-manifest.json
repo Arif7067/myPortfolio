@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.35743bc1.css",
+    "main.js": "/myPortfolio/static/js/main.ae61572f.js",
+    "static/js/787.749b4a44.chunk.js": "/myPortfolio/static/js/787.749b4a44.chunk.js",
+    "static/media/Avatar4.jpg": "/myPortfolio/static/media/Avatar4.552597bcd60d61b169f4.jpg",
+    "static/media/Avatar1.jpg": "/myPortfolio/static/media/Avatar1.11f3cc6514fac9a93aa5.jpg",
+    "static/media/Avatar5.jpg": "/myPortfolio/static/media/Avatar5.1c227b45728d1dceec69.jpg",
+    "static/media/Avatar3.jpg": "/myPortfolio/static/media/Avatar3.1edd73b23a27abef056d.jpg",
+    "static/media/Avatar2.jpg": "/myPortfolio/static/media/Avatar2.66cbe532f2f0f4ac9698.jpg",
+    "static/media/looks.jpg": "/myPortfolio/static/media/looks.a2c5f3ade2ccf7d95b47.jpg",
+    "static/media/JavaBasic.png": "/myPortfolio/static/media/JavaBasic.c020c6dfe423acea22a9.png",
+    "static/media/portfolio.png": "/myPortfolio/static/media/portfolio.3bbf2eb1d94efd12de0d.png",
+    "static/media/Guinessrecord.png": "/myPortfolio/static/media/Guinessrecord.9217d73202874d027e81.png",
+    "static/media/portfolio2.png": "/myPortfolio/static/media/portfolio2.08a488f0c0a3f1f8bda0.png",
+    "static/media/about.jpg": "/myPortfolio/static/media/about.5f18c6543d4f4a6b05d7.jpg",
+    "static/media/portfoliosite.png": "/myPortfolio/static/media/portfoliosite.1a0c6a839423deeddb9c.png",
+    "static/media/ignited.png": "/myPortfolio/static/media/ignited.8438e854cd278fe70827.png",
+    "static/media/IISER.png": "/myPortfolio/static/media/IISER.a59e2b8c609c5ade0887.png",
+    "static/media/Arif.png": "/myPortfolio/static/media/Arif.158bd5334c1b3fd426f5.png",
+    "static/media/portfolio4.png": "/myPortfolio/static/media/portfolio4.98b23b5b56b41663de9a.png",
+    "static/media/portfolio5.png": "/myPortfolio/static/media/portfolio5.0314279f70a828a2604b.png",
+    "static/media/devtown.png": "/myPortfolio/static/media/devtown.ce16131afa62640cece9.png",
+    "static/media/JpMorgan.png": "/myPortfolio/static/media/JpMorgan.5fb9836b80c449e30760.png",
+    "static/media/CV.pdf": "/myPortfolio/static/media/CV.26945cced807109aa2be.pdf",
+    "static/media/portfolio1.png": "/myPortfolio/static/media/portfolio1.22bfc892dc5498b430f8.png",
+    "index.html": "/myPortfolio/index.html",
+    "main.35743bc1.css.map": "/myPortfolio/static/css/main.35743bc1.css.map",
+    "main.ae61572f.js.map": "/myPortfolio/static/js/main.ae61572f.js.map",
+    "787.749b4a44.chunk.js.map": "/myPortfolio/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35743bc1.css",
+    "static/js/main.ae61572f.js"
+  ]
+}
